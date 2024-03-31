@@ -21,6 +21,7 @@ import features from "../data/features";
                     <div class="my-2">
                         <img class="w-full" src="/images/bg-dots.svg" alt="Dot Backaground" />
                     </div>
+                    
                     <p class="text-md font-theme-content text-theme-grayish-blue text-center px-3 py-7">{{ feature.description }}</p>
 
                     <!-- <div class="flex justify-center mb-8">

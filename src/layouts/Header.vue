@@ -6,6 +6,7 @@
     let toggleMobileNav = () => {
         mobileNav.value = !mobileNav.value
     }
+    import image from "/images/logo.png"
 </script>
 
 <template>
@@ -14,7 +15,7 @@
         <header class="flex justify-between py-12 items-center text-2xl">
             
             <div class="flex items-center">
-                <img src="images/logo.png" style="height:3rem"/> 
+                <img src="/images/logo.png" style="height:3rem"/> 
                 <span>KANTAN-CMS</span>
             </div>
             
