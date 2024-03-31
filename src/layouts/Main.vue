@@ -1,19 +1,16 @@
 <script setup>
 import HeroSection from "../sections/HeroSection.vue";
-import FeatureSection from "../sections/FeatureSection.vue";
-import DownloadSection from "../sections/DownloadSection.vue";
-import FaqSection from "../sections/FaqSection.vue";
+import WhySection from "../sections/WhySection.vue";
 import SubscribeSection from "../sections/SubscribeSection.vue";
+import FeatureListSection from "../sections/FeatureListSection.vue";
 </script>
 
 <template>
     <HeroSection />
 
-    <FeatureSection />
+    <WhySection />
 
-    <DownloadSection />
-
-    <FaqSection />
+    <FeatureListSection />
 
     <SubscribeSection />
 </template>

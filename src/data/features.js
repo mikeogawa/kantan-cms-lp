@@ -1,34 +1,29 @@
 const features = [
     {
-        id: 1,
-        name: "Simple Bookmaring",
-        details: {
-            imageUrl: "images/illustration-features-tab-1.svg",
-            title: "Bookmark in one click",
-            description: "Organize your bookmarks however you like. Our simple drag-n-drop interface gives you complete control over how you manage your favorite websites.",
-            link: "#",
-        },
+        title: "Serverless Technology",
+        description: "Say goodbye to server management and hello to cost savings.",
     },
     {
-        id: 2,
-        name: "Speedy Searching",
-        details: {
-            imageUrl: "images/illustration-features-tab-2.svg",
-            title: "Intelligent search",
-            description: "Get quick results with our intelligent search feature. Find your bookmarks effortlessly and save time navigating through your favorite websites.",
-            link: "#",
-        },
+        title: "Simplicity",
+        description: "Say goodbye to server management and hello to cost savings.",
     },
     {
-        id: 3,
-        name: "Speedy Sharing",
-        details: {
-            imageUrl: "images/illustration-features-tab-3.svg",
-            title: "Easy sharing",
-            description: "Share your bookmarks seamlessly with others. Our intuitive sharing options allow you to collaborate and spread the word about your favorite websites.",
-            link: "#",
-        },
+        title: "Collaboration",
+        description: "Designed for teams, Kantan CMS enables seamless collaboration between designers and content editors.",
     },
+    {
+        title: "Productivity",
+        description: "With Kantan CMS, you can focus on what matters most - creating and managing great content.",
+    },
+    {
+        title: "Cost-Effective",
+        description: "No more unnecessary expenses on servers or complicated setups.",
+    },
+    {
+        title: "Freedom",
+        description: "Break free from the codependency between designers and content editors.",
+    },
+
 ];
 
 export default features;
